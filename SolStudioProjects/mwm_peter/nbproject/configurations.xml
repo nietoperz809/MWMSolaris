@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="79">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="mwm" displayName="mwm" projectFiles="true">
+        <itemPath>../../srcmotif/motif/clients/mwm/WmBitmap.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCDInfo.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCDInfo.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCDecor.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCDecor.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCEvent.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCEvent.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCPlace.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCPlace.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCmd.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmCmd.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmColormap.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmColormap.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmDebug.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmError.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmError.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmEvent.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmEvent.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmFeedback.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmFeedback.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmFunction.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmFunction.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmGlobal.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmGraphics.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmGraphics.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmIBitmap.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmICCC.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmIDecor.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmIDecor.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmIPlace.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmIPlace.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmIconBox.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmIconBox.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmImage.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmImage.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmInitWs.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmInitWs.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmKeyFocus.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmKeyFocus.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmMain.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmManage.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmManage.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmMenu.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmMenu.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmOL.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmProperty.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmProperty.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmProtocol.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmProtocol.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmResCvt.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmResCvt.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmResNames.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmResParse.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmResParse.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmResource.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmResource.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmSignal.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmSignal.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinConf.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinConf.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinInfo.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinInfo.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinList.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinList.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinState.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWinState.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWsm.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmWsm.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmXSMP.c</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/WmXSMP.h</itemPath>
+        <itemPath>../../srcmotif/motif/clients/mwm/version.c</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../../srcmotif/motif/clients/mwm</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <preprocessorList>
+            <Elem>NO_OL_COMPAT</Elem>
+          </preprocessorList>
+        </cTool>
+        <linkerTool>
+          <output>/export/home/admin//${CND_PLATFORM}/mwm_peter</output>
+          <commandlineTool>cc</commandlineTool>
+          <linkerLibItems>
+            <linkerOptionItem>`pkg-config --libs x11`</linkerOptionItem>
+            <linkerLibFileItem>../../srcmotif/motif/clients/mwm/WmWsmLib/libWsm.a</linkerLibFileItem>
+            <linkerLibStdlibItem>Motif</linkerLibStdlibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+    </conf>
+    <conf name="Peters" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <stripSymbols>true</stripSymbols>
+          <preprocessorList>
+            <Elem>NO_OL_COMPAT</Elem>
+          </preprocessorList>
+        </cTool>
+        <linkerTool>
+          <stripSymbols>true</stripSymbols>
+          <commandlineTool>cc</commandlineTool>
+          <linkerLibItems>
+            <linkerOptionItem>`pkg-config --libs x11`</linkerOptionItem>
+            <linkerLibFileItem>../../srcmotif/motif/clients/mwm/WmWsmLib/libWsm.a</linkerLibFileItem>
+            <linkerLibStdlibItem>Motif</linkerLibStdlibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+    </conf>
+    <conf name="GCC" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>GNU|GNU</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <stripSymbols>true</stripSymbols>
+          <preprocessorList>
+            <Elem>NO_OL_COMPAT</Elem>
+          </preprocessorList>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <stripSymbols>true</stripSymbols>
+        </ccTool>
+        <linkerTool>
+          <output>/export/home/admin/mwm_peter_gcc</output>
+          <stripSymbols>true</stripSymbols>
+          <commandlineTool>cc</commandlineTool>
+          <linkerLibItems>
+            <linkerOptionItem>`pkg-config --libs x11`</linkerOptionItem>
+            <linkerLibFileItem>../../srcmotif/motif/clients/mwm/WmWsmLib/libWsm.a</linkerLibFileItem>
+            <linkerLibStdlibItem>Motif</linkerLibStdlibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+    </conf>
+  </confs>
+</configurationDescriptor>
